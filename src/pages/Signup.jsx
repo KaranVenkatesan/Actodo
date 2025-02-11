@@ -46,7 +46,7 @@ function Signup(props) {
                 <button className="bg-[#FCA201] w-24 p-1 rounded-md" onClick={addUser}>
                     Sign Up
                 </button>
-                <p> Don't have an account? <Link to={"/"} className="underline">Login</Link>  </p>
+                <p> Already have an account? <Link to={"/"} className="underline">Login</Link>  </p>
 
 
 
